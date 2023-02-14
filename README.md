@@ -17,9 +17,10 @@ The final painting looks like:
 
 
 ## 🔗 Links
-The same code can be found on the below given codepen 
+The same code can be found on the below given codepen👇 
 
+[![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/augustinestom/pen/VwGZdEP)
 
-[![codepen](https://th.bing.com/th?id=OIP.f9q2H_oLz2BxW-rEnrHY6gHaBV&w=353&h=63&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2)](https://codepen.io/augustinestom/pen/VwGZdEP)
+If you liked my work. Consider checking out my social media profiles 👇 
 
-
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/augustinestom)
